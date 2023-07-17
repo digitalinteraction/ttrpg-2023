@@ -1,0 +1,46 @@
+---
+layout: html.njk
+---
+
+<stack-layout space="var(--s5)">
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/intro.md" %}
+  </section>
+
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/universities.md" %}
+
+    <!-- display: block -->
+    {% logoset logos.university, '60' %}
+  </section>
+
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/nhs.md" %}
+
+    <!-- display: block -->
+    {% logoset logos.nhs, '80' %}
+  </section>
+
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/industry.md" %}
+
+    <!-- display: block -->
+    {% logoset logos.industry, '40' %}
+  </section>
+
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/map.md" %}
+
+    <img alt="Map of the region" src="assets/map.png" width="400" />
+  </section>
+
+  <section class="flow">
+    <!-- display: block -->
+    {% renderFile "./copy/rest.md" %}
+  </section>
+</stack-layout>

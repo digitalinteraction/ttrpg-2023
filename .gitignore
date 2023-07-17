@@ -1,0 +1,6 @@
+#
+# Files to ignore from git version control
+#
+
+*.env
+node_modules

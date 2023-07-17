@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@openlab/alembic": "^0.3.2",
+    "prettier": "^3.0.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "htmlWhitespaceSensitivity": "strict"
+  },
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  }
+}

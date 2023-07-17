@@ -1,0 +1,1 @@
+And over 50+ regional, national, and global industry partners; health and care providers; local authorities; innovation accelerators; plus voluntary, community, and social enterprise sector organisations.
