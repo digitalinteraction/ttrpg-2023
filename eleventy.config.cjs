@@ -7,8 +7,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode('logoset', function (logos, size = '80') {
     return [
-      '<cluster-layout space="var(--s1)" class="logoset" justify="center">',
-      ...logos.map((logo) => `<img src="${logo}" height="${size}">`),
+      '<cluster-layout space="var(--s0)" class="logoset" justify="center">',
+      ...logos.map(
+        (logo) => `<img class="logo" src="${logo}" height="${size}">`,
+      ),
       '</cluster-layout>',
     ].join('')
   })

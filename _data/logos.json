@@ -1,8 +1,8 @@
 {
   "industry": [
-    "logos/industry/512px-amazon-web-services-logo.svg.png",
     "logos/industry/adass-north-east-logo.jpg",
     "logos/industry/ahsn-nenc.png",
+    "logos/industry/amazon-web-services-logo.svg.png",
     "logos/industry/apoqlar.png",
     "logos/industry/cam-future-tech.svg",
     "logos/industry/collaborative-newcastle-logo.jpg",
@@ -32,7 +32,6 @@
     "logos/industry/red-hat.svg",
     "logos/industry/siemens.png",
     "logos/industry/stratasys-sys.png",
-    "logos/industry/sunderland-software-city.gif",
     "logos/industry/tee-valley-combined-authority.png",
     "logos/industry/thumbnail-motivait-logo.jpg",
     "logos/industry/tsa-tec-services-association.jpg",
@@ -48,12 +47,11 @@
     "logos/nhs/stees-blue.png"
   ],
   "university": [
+    "logos/university/cumbria.png",
     "logos/university/durham-university.png",
-    "logos/university/newcastle-university.png",
-    "logos/university/northumbria-university-logo.png",
-    "logos/university/teesside-university.png",
-    "logos/university/university-of-cumbria.png",
-    "logos/university/uoc-logo.png",
-    "logos/university/uos-logo-black.png"
+    "logos/university/newcastle.png",
+    "logos/university/northumbria.png",
+    "logos/university/sunderland.png",
+    "logos/university/teesside.png"
   ]
 }

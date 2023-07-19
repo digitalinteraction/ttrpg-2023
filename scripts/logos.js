@@ -3,7 +3,9 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
-const types = fs.readdirSync('logos')
+const typeDirectories = fs
+  .readdirSync('logos', { withFileTypes: true })
+  .filter((f) => f.isDirectory())
 
 function snakeCase(input) {
   return input
@@ -13,26 +15,33 @@ function snakeCase(input) {
     .toLowerCase()
 }
 
+const allowedExtensions = new Set(['.svg', '.png', '.jpg', '.jpeg'])
+
 const output = {}
 
-for (const type of types) {
-  const logos = fs.readdirSync(path.join('logos', type))
+for (const type of typeDirectories) {
+  const logoFiles = fs
+    .readdirSync(path.join('logos', type.name), { withFileTypes: true })
+    .filter((f) => f.isFile())
+
   const names = []
 
-  for (const logo of logos) {
-    const name = snakeCase(logo)
+  for (const file of logoFiles) {
+    if (!allowedExtensions.has(path.extname(file.name))) continue
 
-    if (name !== logo) {
+    const name = snakeCase(file.name)
+
+    if (name !== file.name) {
       fs.renameSync(
-        path.join('logos', type, logo),
-        path.join('logos', type, name),
+        path.join('logos', type.name, file.name),
+        path.join('logos', type.name, name),
       )
     }
 
     names.push(name)
   }
 
-  output[type] = names.sort().map((n) => path.join('logos', type, n))
+  output[type.name] = names.sort().map((n) => path.join('logos', type.name, n))
 }
 
 fs.writeFileSync('_data/logos.json', JSON.stringify(output, null, 2))

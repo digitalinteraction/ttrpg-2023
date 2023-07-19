@@ -8,3 +8,17 @@ hr {
   /* margin-block: var(--s2); */
   /* margin-inline: calc(var(--s0) * -1); */
 }
+
+img.logo {
+  background-color: white;
+  border-radius: var(--s-4);
+  padding: var(--s-3);
+}
+
+header.hero {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 40vh;
+}

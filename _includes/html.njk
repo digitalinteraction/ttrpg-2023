@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="assets/style.css" />
   </head>
   <body>
-    <header>{{ site.title }}</header>
+    <header class="hero">
+      <img src="assets/hero.jpg" />
+    </header>
     <main>
-      <center-layout gutters="var(--s0)"> {{ content | safe }} </center-layout>
+      <center-layout> {{ content | safe }} </center-layout>
     </main>
     <footer> {{ site.title }} 2023 </footer>
     <!-- @openlab/alembic inject-js -->
