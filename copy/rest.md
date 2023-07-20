@@ -1,3 +1,14 @@
+## Our Core Activities
+
+Digital Skills Training and Development
+
+- Community Services Infrastructure Development
+  - Live Digital Health Databank
+  - Digital Brokerage Service
+  - Extended Reality Prototyping
+- Translational Research
+- Networking Innovation Entrepreneurship
+
 ## Our Key Objectives
 
 - Successfully establish the hub & develop research leadership that is people-powered, equitable, and human-centred.
