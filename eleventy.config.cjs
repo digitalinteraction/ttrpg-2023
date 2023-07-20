@@ -15,6 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImagePlugin, {
     formats: ['webp', 'jpeg'],
     urlPath: '/img/',
+    svgShortCircuit: true,
     defaultAttributes: {
       loading: 'lazy',
       decoding: 'async',
@@ -22,20 +23,19 @@ module.exports = function (eleventyConfig) {
   })
 
   eleventyConfig.addShortcode('logoset', async function (logos, size = 80) {
-    const height = `${size}, ${size * 2}`
-
     const images = await Promise.all(
       logos.map(async (logo) => {
         console.log(logo)
         const metadata = await EleventyImage(logo, {
           widths: [240],
           formats: ['webp'],
+          outputDir: './_site/img',
         })
 
         const [data] = metadata.webp
 
         return `<img class="logo" src="${data.url}"  height="${size}">`
-      })
+      }),
     )
 
     return [
@@ -45,6 +45,5 @@ module.exports = function (eleventyConfig) {
     ].join('')
   })
 
-  eleventyConfig.addPassthroughCopy('img')
   eleventyConfig.addPassthroughCopy('assets')
 }
