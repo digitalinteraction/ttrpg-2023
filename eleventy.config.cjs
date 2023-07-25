@@ -34,14 +34,14 @@ module.exports = function (eleventyConfig) {
 
         const [data] = metadata.webp
 
-        return `<img class="logo" src="${data.url}"  height="${size}">`
+        return `<img class="logo" src="${data.url}">`
       }),
     )
 
     return [
-      '<cluster-layout space="var(--s0)" class="logoset" justify="center">',
+      '<grid-layout space="var(--s2)" class="logoset" min="150px">',
       ...images,
-      '</cluster-layout>',
+      '</grid-layout>',
     ].join('')
   })
 
