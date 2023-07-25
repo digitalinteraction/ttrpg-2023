@@ -13,15 +13,15 @@ layout: html.njk
     {% renderFile "./copy/universities.md" %}
 
     <!-- display: block -->
-    {% logoset logos.university, '85' %}
+    {% logoset logos.university, '8.75em' %}
   </section>
 
   <section class="flow">
-    <!-- display: block -->
-    {% renderFile "./copy/nhs.md" %}
-
-    <!-- display: block -->
-    {% logoset logos.nhs, '90' %}
+    <p>Seven regional NHS Trusts.</p>
+    <sidebar-layout sidewidth="10em" side="right">
+      <div class="flow">{% renderFile "./copy/nhs.md" %}</div>
+      <div>{% logoset logos.nhs, '10em' %}</div>
+    </sidebar-layout>
   </section>
 
   <section class="flow">
@@ -29,14 +29,14 @@ layout: html.njk
     {% renderFile "./copy/industry.md" %}
 
     <!-- display: block -->
-    {% logoset logos.industry, '60' %}
+    {% logoset logos.industry, '7em' %}
   </section>
 
   <section class="flow">
     <!-- display: block -->
     {% renderFile "./copy/map.md" %}
 
-    <img alt="Map of the region" src="assets/map.png" width="400" />
+    <img alt="Map of the region" src="assets/map.png" width="400" class="map" />
   </section>
 
   <section class="flow">

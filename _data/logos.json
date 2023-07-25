@@ -41,19 +41,12 @@
     "logos/industry/youth-focus-ne-rgb-logo.png"
   ],
   "nhs": [
-    "logos/nhs/county-durham-and-darlington.svg",
-    "logos/nhs/cumbria-northumbria.png",
-    "logos/nhs/icb.jpg",
-    "logos/nhs/newcastle-hospitals.svg",
-    "logos/nhs/northumbria-healthcare.jpg",
-    "logos/nhs/nth.png",
-    "logos/nhs/south-tyneside-and-sunderland.png",
-    "logos/nhs/stees.png"
+    "logos/nhs/icb.jpg"
   ],
   "university": [
+    "logos/university/01-newcastle.png",
     "logos/university/cumbria.png",
     "logos/university/durham-university.png",
-    "logos/university/newcastle.png",
     "logos/university/northumbria.png",
     "logos/university/sunderland.png",
     "logos/university/teesside.png"

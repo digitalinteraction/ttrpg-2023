@@ -22,28 +22,35 @@ module.exports = function (eleventyConfig) {
     },
   })
 
-  eleventyConfig.addShortcode('logoset', async function (logos, size = 80) {
-    const images = await Promise.all(
-      logos.map(async (logo) => {
-        console.log(logo)
-        const metadata = await EleventyImage(logo, {
-          widths: [240],
-          formats: ['webp'],
-          outputDir: './_site/img',
-        })
+  eleventyConfig.addShortcode(
+    'logoset',
+    async function (logos = [], size = '150px') {
+      console.log(logos)
+      const images = await Promise.all(
+        logos.map(async (logo) => {
+          const metadata = await EleventyImage(logo, {
+            widths: [240],
+            formats: ['webp'],
+            outputDir: './_site/img',
+          })
 
-        const [data] = metadata.webp
+          const [data] = metadata.webp
 
-        return `<img class="logo" src="${data.url}">`
-      }),
-    )
+          return `<img class="logo" src="${data.url}">`
+        }),
+      )
 
-    return [
-      '<grid-layout space="var(--s2)" class="logoset" min="150px">',
-      ...images,
-      '</grid-layout>',
-    ].join('')
-  })
+      return [
+        `<grid-layout space="var(--s2)" class="logoset" min="${size}">`,
+        ...images,
+        '</grid-layout>',
+      ].join('')
+    },
+  )
 
   eleventyConfig.addPassthroughCopy('assets')
+
+  return {
+    markdownTemplateEngine: 'njk',
+  }
 }
