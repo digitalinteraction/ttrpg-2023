@@ -21,7 +21,7 @@ Digital Skills Training and Development
 ## NortHFutures Translational Research
 
 - Promoting Health & Nutrition for Children & Young People
-- DevelopingDigital Surgical Pathways
+- Developing Digital Surgical Pathways
 - Supporting Mental Health & Wellbeing
 - Living & Ageing Well with Multiple Long-term Conditions
 
