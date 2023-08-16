@@ -23,11 +23,20 @@ header.hero {
   justify-content: center;
   align-items: center;
   max-height: 40vh;
+  position: relative;
 }
 
-header.hero img {
+.hero-background {
   width: 100%;
-  filter: saturate(0.7);
+  filter: saturate(0.7) brightness(0.6);
+}
+.hero-brand {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 66.667%;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.6));
 }
 
 ul {
