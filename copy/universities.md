@@ -1,1 +1,1 @@
-NortHFutures involves six regional universities.
+NortHFutures involves six regional universities:

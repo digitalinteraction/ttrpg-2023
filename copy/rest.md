@@ -1,44 +1,42 @@
-## Our Core Activities
+## Hub Activities
 
-Digital Skills Training and Development
+NortHFutures aim to humanise health-tech through equity, participation, and investment in people. Our objectives are to:
 
-- Community Services Infrastructure Development
-  - Live Digital Health Databank
-  - Digital Brokerage Service
-  - Extended Reality Prototyping
-- Translational Research
-- Networking Innovation Entrepreneurship
+- Establish the hub as a world-leading research centre that is people-powered and **provides opportunities for all** to engage in digital health and health-tech initiatives.
+- **Enhance digital skills training** provision for stakeholders in multiple sectors: Health and Care; Industry; Voluntary, Community and Social Enterprise; Local Government; Academia; and in diverse learning and training environments across the region.
+- Collaboratively **create a supportive community** of people and organisations working across health and care and in digital technology innovation.
+- **Fund scoping research** in the field of Digital Health that addresses regional unmet health and care needs;
+- **Create opportunities for engagement, networking and entrepreneurship**.
 
-## Our Key Objectives
+We will:
 
-- Successfully establish the hub & develop research leadership that is people-powered, equitable, and human-centred.
-- Deliver skills & training for Health and Care Professionals, industry, VCSE, & academic partners.
-- Produce evaluations of training & open source learning resources.
-- Develop Supportive Community Infrastructure to underpin hub collaboration & technical exploration.
-- Commission and fund consortium R&D projects.
-- Deliver a programme of networking and entrepreneurial activities.
+- Deliver and evaluate digital skills training and development initiatives.
+- Develop new community services and technical infrastructure for collaborative data work and for connecting people working in Digital Health in our region and beyond.
+- Commission and evaluate scoping research studies that support new collaborations.
+- Hold networking events and provide access to resources supporting entrepreneurship, innovation, and routes to commercialisation.
 
-## NortHFutures Translational Research
+## Hub Research Themes
 
-- Promoting Health & Nutrition for Children & Young People
-- Developing Digital Surgical Pathways
-- Supporting Mental Health & Wellbeing
-- Living & Ageing Well with Multiple Long-term Conditions
+The hub activities are mobilised around four themes that are grounded in evidenced need voiced by our stakeholders:
 
-## We launch in October 2023 for a 3-Year Pilot Phase
+- Promoting Health & Nutrition for Children & Young People.
+- Developing Digital Surgical Pathways.
+- Supporting Mental Health & Wellbeing.
+- Living & Ageing Well with Multiple Long-term Conditions.
 
-Please join the network:
+## Join the NortHFutures Network
+
+We start work on 1st November 2023 for a 3-Year Pilot Phase. Please join the network, which is open to all, to be kept updated about upcoming events:
 
 - [#NortHFutures](https://twitter.com/search?q=%23NortHFutures&src=typeahead_click)
 - [Join the mailing list →](https://forms.office.com/e/0djkzsL44a)
 
-## Team
+## Leadership
 
-**Director:** Prof. Abigail Durrant, Newcastle University
-<br />
-[abigail.durrant@newcastle.ac.uk](mailto:abigail.durrant@newcastle.ac.uk)
+<img src="assets/leadership.jpg" alt="Leadership" width="400">
 
-**Co-Director:** Prof. Naeem Soomro, Newcastle Hospitals NHS Foundation
-Trust
-<br />
-[n.soomro@nhs.net](mailto:n.soomro@nhs.net)
+NortHFutures Co-Directors are Prof. Abigail Durrant at Open Lab, Newcastle University, and Prof. Naeem Soomro, Consultant Urologist at Newcastle Hospitals NHS Foundation Trust. The directors are supported by a wider leadership team with representation from across the partnership and hub consortium.
+
+## Contact
+
+NortHFutures Co-Director: Abigail Durrant will be happy to address any queries about the hub and how to get involved: [abigail.durrant@newcastle.ac.uk](mailto:abigail.durrant@newcastle.ac.uk)

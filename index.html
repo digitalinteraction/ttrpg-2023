@@ -17,7 +17,7 @@ layout: html.njk
   </section>
 
   <section class="flow">
-    <p>Seven regional NHS Trusts.</p>
+    <p>Seven regional National Health Service (NHS) Foundation Trusts:</p>
     <sidebar-layout sidewidth="10em" side="right">
       <div class="flow">{% renderFile "./copy/nhs.md" %}</div>
       <div>{% logoset logos.nhs, '10em' %}</div>
@@ -36,7 +36,12 @@ layout: html.njk
     <!-- display: block -->
     {% renderFile "./copy/map.md" %}
 
-    <img alt="Map of the region" src="assets/map.png" width="400" class="map" />
+    <img
+      alt="Map of the region. Photo by Boris YUE on Unsplash"
+      src="assets/map.png"
+      width="500"
+      class="map"
+    />
   </section>
 
   <section class="flow">

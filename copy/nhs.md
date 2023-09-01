@@ -4,4 +4,4 @@
 - Northumbria Healthcare
 - North Tees and Hartlepool
 - South Tyneside and Sunderland
-- South Tees Hospitals
+- South Tees Hospitals;
