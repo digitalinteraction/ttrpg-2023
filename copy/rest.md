@@ -1,11 +1,11 @@
 ## Hub Activities
 
-NortHFutures aim to humanise health-tech through equity, participation, and investment in people. Our objectives are to:
+The NortHFutures consortium aims to humanise health-tech through equity, participation, and investment in people.
 
 - Establish the hub as a world-leading research centre that is people-powered and **provides opportunities for all** to engage in digital health and health-tech initiatives.
 - **Enhance digital skills training** provision for stakeholders in multiple sectors: Health and Care; Industry; Voluntary, Community and Social Enterprise; Local Government; Academia; and in diverse learning and training environments across the region.
 - Collaboratively **create a supportive community** of people and organisations working across health and care and in digital technology innovation.
-- **Fund scoping research** in the field of Digital Health that addresses regional unmet health and care needs;
+- **Fund scoping research** in the field of Digital Health that addresses regional unmet health and care needs, health inequalities, and digital exclusion.
 - **Create opportunities for engagement, networking and entrepreneurship**.
 
 We will:
@@ -14,6 +14,8 @@ We will:
 - Develop new community services and technical infrastructure for collaborative data work and for connecting people working in Digital Health in our region and beyond.
 - Commission and evaluate scoping research studies that support new collaborations.
 - Hold networking events and provide access to resources supporting entrepreneurship, innovation, and routes to commercialisation.
+
+Through our joined-up approach, we unite to build ways for populations of all ages to thrive and invest in their possible futures.
 
 ## Hub Research Themes
 
@@ -39,4 +41,4 @@ NortHFutures Co-Directors are Prof. Abigail Durrant at Open Lab, Newcastle Unive
 
 ## Contact
 
-NortHFutures Co-Director: Abigail Durrant will be happy to address any queries about the hub and how to get involved: [abigail.durrant@newcastle.ac.uk](mailto:abigail.durrant@newcastle.ac.uk)
+**NortHFutures Co-Director** Abigail Durrant will be happy to address any queries about the hub and how to get involved: [abigail.durrant@newcastle.ac.uk](mailto:abigail.durrant@newcastle.ac.uk).
