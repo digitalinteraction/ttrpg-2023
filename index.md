@@ -2,13 +2,13 @@
 layout: html.njk
 ---
 
-## Tabletop Role-Playing Workshop at Academic MindTrek 2023
+# Tabletop Role-Playing Workshop at Academic MindTrek 2023
 
 Academic MindTrek 2023 is the 26th International Academic Mindtrek conference. It will take place October 3rd to 6th in the Paidia Living Lab of Play, Nokia Arena, Tampere and will bring together researchers, experts, and thinkers from a plethora of fields, domains and sectors to discuss novel technology, media, and digital culture for the societies of tomorrow.
 
 This workshop was accepted to the 'Accessibility and Inclusion in the Digital Society' track of Academic MindTrek 2023 and will be held there as an in-person event.
 
-# Hands-On Workshop on Tabletop Role-Playing for Inclusive Design: Imagining Sustainable Futures for 'Older Adults'
+## Hands-On Workshop on Tabletop Role-Playing for Inclusive Design: Imagining Sustainable Futures for 'Older Adults'
 
 ‘Older adults’ are often seen as a homogeneous group, disregarding their actual diversity in attitudes, abilities, and needs. This stereotypical view can seep into the research and design of digital technologies when developing for this age group, which can lead to those technologies not matching up with actual needs and abilities and thus not being picked up or engaged with. 
 
@@ -16,21 +16,21 @@ The goal of this workshop is to explore Tabletop Role-Playing Games (TTRPGs) as 
 
 This workshop will contribute to an improved understanding of TTRPG as an approach to understanding diversity, paving the way to further research into inclusive design of digital technology for sustainability and beyond.
 
-# Workshop Organization
+## Workshop Organization
 
 We propose one half-day workshop on October 6th 2023 at the Academic MindTrek 2023 conference. Reviews of submissions are prepared by the organizers and discussed jointly.
 
-# Target Audience
+## Target Audience
 
 The target audience for this workshop are researchers and designers working in the area of neurodivergence, either through the lens of assistive technology or from the perspective of neurodivergent persons and their experiences with technology. We also invite the participation of lived experience experts (i.e., neurodivergent persons).
 
-# Participation in the Workshop
+## Participation in the Workshop
 
 To participate in the workshop, interested parties are invited to register using the form below. No further submissions will be required. Participation itself will be possible in person only. You can choose to either be a TTRPG player or an audience member who actively watches the TTRPG unfold. The number of players will be 5 (first come, first serve). The workshop will start with an introduction, involve some drawing activities, the TTRPG session and a closing discussion.
 
 todo: add link to registration form here
 
-# Key Organizers
+## Key Organizers
 
 The organisers all have an active interest in the intersection of roleplaying games (tabletop and other forms), arts and HCI, and are drawn from a range of career levels, expertise, and artistic practices.
 
