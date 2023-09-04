@@ -27,7 +27,11 @@
       </div>
     </header>
     <main>
-      <center-layout> {{ content | safe }} </center-layout>
+      <center-layout>
+        <section class="flow">
+          {{ content | safe }}
+        </section>
+      </center-layout>
     </main>
     <footer> {{ site.title }} 2023 </footer>
     <!-- @openlab/alembic inject-js -->

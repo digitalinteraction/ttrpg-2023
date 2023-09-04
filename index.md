@@ -1,3 +1,41 @@
+---
+layout: html.njk
+---
+
+## EPSRC Northern Health Futures Digital Health Hub
+
+The **NortHFutures** Hub is envisioned as a world-leading innovation ecosystem that will facilitate the research, development, and acceleration of responsibly designed, human-centred, and data-rich health-tech to cultivate an entrepreneurial and vibrant community that addresses regional healthcare needs and promotes leadership in Digital Health.
+
+<br>
+
+NortHFutures involves six regional universities:
+
+{% logoset logos.university, '8.75em' %}
+
+<br>
+
+Seven regional National Health Service (NHS) Foundation Trusts:
+
+{% include 'nhs.njk' %}
+
+<br>
+
+And over 50+ partners, including regional, national, and global companies; health and care providers; local authorities; innovation accelerators; plus voluntary, community, and social enterprise sector organisations and advocacy groups.
+
+The NortHFutures network is open to all. To get involved and keep updated about the launch this Autumn 2023: [Join the mailing list →](https://forms.office.com/e/0djkzsL44a).
+
+<br>
+
+{% logoset logos.industry, '7em' %}
+
+## Across the North East and North Cumbria
+
+The NortHFutures consortium has a shared agenda to address unmet health needs, inequalities, and digital exclusion in the North East and North Cumbria (NENC) region where there is proportionately high deprivation, child poverty, mental health challenges and a high percentage of people in the population living with multiple long-term conditions.
+
+{% include 'map.njk' %}
+
+<br>
+
 ## Hub Activities
 
 The NortHFutures consortium aims to humanise health-tech through equity, participation, and investment in people.

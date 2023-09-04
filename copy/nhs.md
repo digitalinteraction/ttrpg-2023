@@ -1,7 +1,0 @@
-- County Durham and Darlington
-- Cumbria, Northumberland, Tyne and Wear
-- The Newcastle upon Tyne Hospitals
-- Northumbria Healthcare
-- North Tees and Hartlepool
-- South Tyneside and Sunderland
-- South Tees Hospitals

@@ -54,3 +54,7 @@ header.hero {
 ul {
   margin-inline: 0;
 }
+
+br + * {
+  margin-top: 1.5em !important;
+}
