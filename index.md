@@ -18,11 +18,11 @@ This workshop will contribute to an improved understanding of TTRPG as an approa
 
 ## Workshop Organization
 
-We propose one half-day workshop on October 6th 2023 at the Academic MindTrek 2023 conference. Reviews of submissions are prepared by the organizers and discussed jointly.
+We propose one half-day workshop on October 6th 2023 at the Academic MindTrek 2023 conference. In order to join us, you will need to register in advance (see 'Participation in the Workshop').
 
 ## Target Audience
 
-The target audience for this workshop are researchers and designers working in the area of neurodivergence, either through the lens of assistive technology or from the perspective of neurodivergent persons and their experiences with technology. We also invite the participation of lived experience experts (i.e., neurodivergent persons).
+The target audience for this workshop are ...
 
 ## Participation in the Workshop
 
