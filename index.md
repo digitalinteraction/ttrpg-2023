@@ -26,9 +26,9 @@ Participation itself will be possible in person only. When registering, you can 
 
 Workshop participants will also receive a link to a Miro board one week before the workshop. There, they can already get to know each other and share there expectations for the workshop. The link to the Miro board will be shared below.
 
-## Workshop Registration Form and Miro Board: 
+## Workshop Registration Form and Miro Board
 
-Registration:
+Registration: link to be shared soon
 
 Miro board: link to be shared soon
 
@@ -53,3 +53,6 @@ With a background in technology-aided interventions for mental well-being, her c
 
 [Jennifer Liddle](https://openlab.ncl.ac.uk/people/jennifer-liddle/) is a Senior Research Associate working across Open Lab and Population Health Sciences Institute at Newcastle
 University. Her research interests include the development of innovative (digital) approaches to address societal challenges such as loneliness, isolation, health and care in later life. She has worked with older people and health care professionals on a range of qualitative and mixed methods studies to explore experiences of everyday life.
+
+## Contact
+If you have any questions or need more information, please contact [Denise Lengyel](mailto:denise.lengyel@newcastle.ac.uk) and [Kirsikka Kaipainen](mailto:kirsikka.kaipainen@tuni.fi)
