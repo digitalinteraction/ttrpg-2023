@@ -2,13 +2,15 @@
 layout: html.njk
 ---
 
-# Tabletop Role-Playing Workshop at Academic MindTrek 2023
+# Hands-On Workshop on Tabletop Role-Playing for Inclusive Design: Imagining Sustainable Futures for 'Older Adults'
 
-Academic MindTrek 2023 is the 26th International Academic Mindtrek conference. It will take place October 3rd to 6th in the Paidia Living Lab of Play, Nokia Arena, Tampere and will bring together researchers, experts, and thinkers from a plethora of fields, domains and sectors to discuss novel technology, media, and digital culture for the societies of tomorrow.
+This workshop was accepted to the 'Accessibility and Inclusion in the Digital Society' track of Academic MindTrek 2023 and will be held there as an in-person event on October 6th, from 9:30 to 13:00. In order to join us, you will need to register in advance, see 'Workshop Participation' below.
 
-This workshop was accepted to the 'Accessibility and Inclusion in the Digital Society' track of Academic MindTrek 2023 and will be held there as an in-person event.
+## Academic Mindtrek 
 
-## Hands-On Workshop on Tabletop Role-Playing for Inclusive Design: Imagining Sustainable Futures for 'Older Adults'
+Academic Mindtrek 2023 is the 26th International Academic Mindtrek conference. It will take place October 3rd to 6th in the Paidia Living Lab of Play, Nokia Arena, Tampere and will bring together researchers, experts, and thinkers from a plethora of fields, domains and sectors to discuss novel technology, media, and digital culture for the societies of tomorrow.
+
+## Workshop Background and Goal
 
 ‘Older adults’ are often seen as a homogeneous group, disregarding their actual diversity in attitudes, abilities, and needs. This stereotypical view can seep into the research and design of digital technologies when developing for this age group, which can lead to those technologies not matching up with actual needs and abilities and thus not being picked up or engaged with. 
 
@@ -16,19 +18,23 @@ The goal of this workshop is to explore Tabletop Role-Playing Games (TTRPGs) as 
 
 This workshop will contribute to an improved understanding of TTRPG as an approach to understanding diversity, paving the way to further research into inclusive design of digital technology for sustainability and beyond.
 
-## Workshop Organization
+## Workshop Participation
 
-We propose one half-day workshop on October 6th 2023 at the Academic MindTrek 2023 conference. In order to join us, you will need to register in advance (see 'Participation in the Workshop').
+We invite people from all ages as well as all ranks and disciplines of academia, industry and the public to join this workshop. No previous experience of role-playing is required. To participate in the workshop, interested parties are invited to register using the form linked below. No further submissions will be required. 
 
-## Target Audience
+Participation itself will be possible in person only. When registering, you can express your interest to either be a TTRPG player or an audience member who actively watches the TTRPG unfold. The number of players will be limited to 5 (first come, first serve). The workshop will start with an introduction, involve some drawing activities, the TTRPG session and a closing discussion. Please note that workshop participants must also register for at least one day of the Mindtrek conference.
 
-The target audience for this workshop are ...
+Workshop participants will also receive a link to a Miro board one week before the workshop. There, they can already get to know each other and share there expectations for the workshop. The link to the Miro board will be shared below.
 
-## Participation in the Workshop
+## Workshop Registration Form and Miro Board: 
 
-To participate in the workshop, interested parties are invited to register using the form below. No further submissions will be required. Participation itself will be possible in person only. You can choose to either be a TTRPG player or an audience member who actively watches the TTRPG unfold. The number of players will be 5 (first come, first serve). The workshop will start with an introduction, involve some drawing activities, the TTRPG session and a closing discussion.
+Registration:
 
-todo: add link to registration form here
+Miro board: link to be shared soon
+
+## Workshop Agenda
+
+The workshop agenda will be shared here shortly before the workshop. So keep your eyes peeled.
 
 ## Key Organizers
 
@@ -47,5 +53,3 @@ With a background in technology-aided interventions for mental well-being, her c
 
 [Jennifer Liddle](https://openlab.ncl.ac.uk/people/jennifer-liddle/) is a Senior Research Associate working across Open Lab and Population Health Sciences Institute at Newcastle
 University. Her research interests include the development of innovative (digital) approaches to address societal challenges such as loneliness, isolation, health and care in later life. She has worked with older people and health care professionals on a range of qualitative and mixed methods studies to explore experiences of everyday life.
-
-todo: organisers to check if they want to change the website linked to their name
