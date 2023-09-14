@@ -24,13 +24,11 @@ We invite people from all ages as well as all ranks and disciplines of academia 
 
 Participation itself will be possible in person only. When registering, you can express your interest to either be a TTRPG player or an audience member who actively watches the TTRPG unfold. The number of players will be limited to 5 (first come, first serve). The workshop will start with an introduction, involve some drawing activities, the TTRPG session and a closing discussion. Please note that workshop participants must also register for at least one day of the Mindtrek conference.
 
-Workshop participants will also receive a link (via email) to a Miro board one week before the workshop. There, they can already get to know each other and share their expectations for the workshop. The link to the Miro board will also be shared below.
+If your registration was successful, we will send you a confirmation email. One week before the workshop, we will also email all you the agenda and a link to a Miro board on which you can introduce yourself and share your expectations for the workshop.
 
 ## Workshop Registration Form and Miro Board
 
 [Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
-
-Miro board: link to be shared soon
 
 ## Workshop Agenda
 
