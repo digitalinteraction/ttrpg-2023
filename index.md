@@ -20,7 +20,7 @@ This workshop will contribute to an improved understanding of TTRPG as an approa
 
 ## Workshop Participation
 
-We invite people from all ages as well as all ranks and disciplines of academia, industry and the public to join this workshop. No previous experience of role-playing is required. To participate in the workshop, interested parties are invited to register using the form linked below. No further submissions will be required. 
+We invite people from all ages as well as all ranks and disciplines of academia and industry to join this workshop. No previous experience of (tabletop) role-playing is required. To participate in the workshop, interested parties are invited to register using the form linked below. No further submissions will be required. 
 
 Participation itself will be possible in person only. When registering, you can express your interest to either be a TTRPG player or an audience member who actively watches the TTRPG unfold. The number of players will be limited to 5 (first come, first serve). The workshop will start with an introduction, involve some drawing activities, the TTRPG session and a closing discussion. Please note that workshop participants must also register for at least one day of the Mindtrek conference.
 
@@ -28,7 +28,7 @@ Workshop participants will also receive a link (via email) to a Miro board one w
 
 ## Workshop Registration Form and Miro Board
 
-Registration: link to be shared soon
+[Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
 
 Miro board: link to be shared soon
 
