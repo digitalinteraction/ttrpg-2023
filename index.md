@@ -6,6 +6,10 @@ layout: html.njk
 
 This workshop was accepted to the 'Accessibility and Inclusion in the Digital Society' track of Academic MindTrek 2023 and will be held there as an in-person event on October 6th, from 9:30 to 13:00. In order to join us, you will need to register in advance, see 'Workshop Participation' below.
 
+## Sign up Here
+
+[Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
+
 ## Academic Mindtrek 
 
 Academic Mindtrek 2023 is the 26th International Academic Mindtrek conference. It will take place October 3rd to 6th in the Paidia Living Lab of Play, Nokia Arena, Tampere, Finland and will bring together researchers, experts, and thinkers from a plethora of fields, domains and sectors to discuss novel technology, media, and digital culture for the societies of tomorrow.
@@ -26,7 +30,7 @@ Participation itself will be possible in person only. When registering, you can 
 
 If your registration was successful, we will send you a confirmation email. One week before the workshop, we will also email all you the agenda and a link to a Miro board on which you can introduce yourself and share your expectations for the workshop.
 
-## Workshop Registration Form and Miro Board
+## Sign up Here
 
 [Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
 
