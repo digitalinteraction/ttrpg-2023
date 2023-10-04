@@ -6,6 +6,16 @@ layout: html.njk
 
 This workshop was accepted to the 'Accessibility and Inclusion in the Digital Society' track of Academic MindTrek 2023 and will be held there as an in-person event on October 6th, from 9:30 to 13:00. In order to join us, you will need to register in advance, see 'Workshop Participation' below.
 
+## Workshop Agenda
+
+9:30  Introductions and briefing
+
+10:00 TTRPG session
+
+11:30 Break
+
+11:45 Discussion and wrap-up
+
 ## Sign up Here
 
 [Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
@@ -33,17 +43,6 @@ If your registration was successful, we will send you a confirmation email. One 
 ## Sign up Here
 
 [Click to open registration form](https://forms.office.com/e/cnVP2jidqG)
-
-## Workshop Agenda
-
-9:30  Introductions and briefing
-
-10:00 TTRPG session
-
-11:30 Break
-
-11:45 Discussion and wrap-up
- 
 
 ## Key Organizers
 
