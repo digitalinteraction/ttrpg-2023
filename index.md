@@ -36,7 +36,14 @@ If your registration was successful, we will send you a confirmation email. One 
 
 ## Workshop Agenda
 
-The workshop agenda will be shared here shortly before the workshop. So keep your eyes peeled.
+9:30  Introductions and briefing
+
+10:00 TTRPG session
+
+11:30 Break
+
+11:45 Discussion and wrap-up
+ 
 
 ## Key Organizers
 
